@@ -1,0 +1,12 @@
+﻿space,latitude,longitude,w01,w02,w03,w04,folderPath,spaceType,building
+gmtechLab,23.186912,72.627824,-60,-60,-60,0,/gmtechLab,Lab,Laboratory
+mtechLab,23.187083,72.628061,-62,-62,-61,0,/mtechLab,Lab,Laboratory
+roboticsLab,23.186913,72.627893,-38,-83,-37,0,/roboticsLab,Lab,Laboratory
+roboticsLobby,23.186913,72.627894,-52,-52,-52,0,/roboticsLobby,Lobby,Laboratory
+mtechLobby,23.187142,72.628069,-61,-62,-61,0,/mtechLobby,Lobby,Laboratory
+vlsiLab,23.187076,72.628212,-72,-72,-72,0,/vlsiLab,Lab,Laboratory
+vlsiDesignLab,23.187269,72.628176,-72,-72,-72,0,/vlsiDesignLab,Lab,Laboratory
+cep202,23.18835,72.627873,0,-88,-89,-87,/cep202,Classroom,CEP
+cep104,23.188513,72.627565,0,-69,-69,-66,/cep104,Classroom,CEP
+cep105,23.188347,72.627878,0,-68,-69,-69,/cep105,Classroom,CEP
+cep106,23.18835,72.62788,0,-68,-77,77,/cep106,Classroom,CEP

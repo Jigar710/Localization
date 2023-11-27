@@ -1,0 +1,1 @@
+['potted plant', 'suitcase', 'chair', 'sink', 'toilet', 'mouse', 'backpack', 'dining table', 'keyboard', 'clock', 'cup', 'train', 'refrigerator', 'remote', 'person', 'bench', 'laptop', 'umbrella', 'tv', 'bottle', 'book']
